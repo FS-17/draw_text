@@ -23,7 +23,7 @@ Alternatively, add the package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  draw_text: ^0.1.0
+  draw_text: ^0.0.2
 ```
 
 Then, run `flutter pub get` to install the package.
