@@ -1,15 +1,9 @@
 name: draw_text
-description: "The draw_text package provides an enhanced draw_text function for drawing text on images in Flutter applications. It Based on Image pacakge, offering additional features and customization options for text.
+description: "Add text to Flutter images with more control. draw_text offers an enriched text drawing function that builds upon the core Image package."
+version: 0.0.2
+homepage: https://github.com/FS-17/draw_text
+repository: https://github.com/FS-17/draw_text
 
-Features
-  Customizable text styles (color, font, size, etc.)
-  unicode support 
-  Specify exact coordinates for text positioning
-  Easy integration with Flutter projects
-
-Useful for creating memes, adding watermarks, or any scenario where you need to draw text on images."
-version: 0.0.1
-homepage:
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
