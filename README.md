@@ -1,7 +1,7 @@
 
 # draw_text
 
-The `draw_text` package provides an enhanced `draw_text` function for drawing text on images in Flutter applications. It Based on `Image` pacakge, offering additional features and customization options for text.
+The `draw_text` package provides an enhanced `draw_text` function for drawing text on images in Flutter applications. It Based on [`image`](https://github.com/brendan-duncan/image) pacakge, offering additional features and customization options for text.
 
 ## Features
 
